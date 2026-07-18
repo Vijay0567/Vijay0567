@@ -1,5 +1,85 @@
 <div align="center">
 
+# 👋 Welcome to My GitHub
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Software+Engineer;Always+Learning+Something+New..." />
+
+</div>
+
+```text
+vijay@github:~$ neofetch
+
+                    .--.
+                   |o_o |
+                   |:_/ |
+                  //   \ \
+                 (|     | )
+                /'\_   _/`\
+                \___)=(___/
+
+──────────────────────────────────────────────────────────────
+
+👤 Name          : Vijay Gampala
+
+🎓 Education     : B.Tech Computer Science Engineering
+                   Lovely Professional University
+
+💼 Roles         : Data Scientist
+                   Data Analyst
+                   Machine Learning Engineer
+                   Python Developer
+                   Software Engineer
+
+📍 Location      : Andhra Pradesh, India
+
+💻 Languages     : Python
+                   SQL
+                   Java
+                   C
+                   C++
+
+⚙ Frameworks    : Django
+                   Streamlit
+                   HTML
+                   CSS
+
+📊 Data Science  : Pandas
+                   NumPy
+                   Scikit-learn
+                   Matplotlib
+                   Seaborn
+                   Power BI
+                   Excel
+
+🛠 Tools         : Git
+                   GitHub
+                   VS Code
+                   Jupyter Notebook
+                   Anaconda
+
+🧠 Core Skills   : Machine Learning
+                   Data Analytics
+                   EDA
+                   Feature Engineering
+                   OOP
+                   DBMS
+
+🚀 Current Focus : Building intelligent
+                   AI-powered solutions
+
+🌐 Portfolio     : https://vijay-gampala.vercel.app/
+
+💼 LinkedIn      : https://linkedin.com/in/vijay-gampala
+
+📧 Email         : vijaygampala0@gmail.com
+
+──────────────────────────────────────────────────────────────
+
+vijay@github:~$
+
+
+<div align="center">
+
 # Hi 👋, I'm Vijay Gampala
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Science+Enthusiast;Machine+Learning+Developer;Python+Developer;Open+Source+Learner;Future+Software+Engineer" alt="Typing SVG" />
