@@ -152,3 +152,131 @@ I enjoy transforming raw data into meaningful insights, building intelligent app
 - 🌐 Django Development
 - 🧩 Data Structures & Algorithms
 - ☁️ Cloud Computing Fundamentals
+
+
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vijay0567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay0567&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vijay0567&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay0567&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vijay0567&theme=tokyonight&row=2&column=4&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijay0567&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vijay0567&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijay0567&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📅 GitHub Calendar
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vijay0567&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 💻 Development Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijay0567&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```text
+🎯 2026 Goals
+
+✅ Master Python Programming
+
+✅ Become an Advanced SQL Developer
+
+🔄 Build End-to-End Machine Learning Projects
+
+🔄 Contribute to Open Source
+
+🔄 Solve 500+ DSA Problems
+
+🔄 Strengthen Django Development
+
+🔄 Land a Software Engineer / Data Scientist Role
+```
+
+---
+
+# 📈 Profile Roadmap
+
+```text
+Python           ██████████████ 95%
+
+SQL              ████████████░ 85%
+
+Machine Learning ██████████░░░ 80%
+
+Data Analytics   ███████████░░ 82%
+
+Django           ████████░░░░░ 65%
+
+Power BI         ███████████░░ 80%
+
+DSA              ███████░░░░░░ 60%
+```
