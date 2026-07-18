@@ -452,3 +452,90 @@ DSA              ███████░░░░░░ 60%
 
 🚀 Every project teaches something new.
 ```
+
+
+
+
+---
+
+# 📊 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Vijay0567/Vijay0567/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🌟 Open Source Journey
+
+```text
+2023  ████░░░░░░  Started Programming
+
+2024  ███████░░░  Web Development & React
+
+2025  █████████░  Data Science & Machine Learning
+
+2026  ██████████ Learning Advanced Python, SQL,
+                Django & Open Source
+```
+
+---
+
+# 🎯 Career Objective
+
+> Passionate about solving real-world problems through **Data Science**, **Machine Learning**, and **Software Engineering**.  
+> I enjoy transforming data into meaningful insights and building scalable applications that create real impact.
+
+---
+
+# 💬 Quote of the Day
+
+<div align="center">
+
+> **"Transforming Data into Decisions, and Ideas into Intelligent Solutions."**
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+If you like my projects, please consider giving them a ⭐.
+
+It motivates me to keep building and sharing more.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="mailto:vijaygampala0@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vijay-gampala/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://vijay-gampala.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vijay0567">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my GitHub Profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
