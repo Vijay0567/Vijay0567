@@ -1,120 +1,84 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Vijay0567&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views"/>
+
 # 👋 Welcome to My GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Software+Engineer;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Software+Engineer;Always+Learning+Something+New..." alt="Typing SVG" />
 
 </div>
 
 ```text
 vijay@github:~$ neofetch
 
-                    .--.
-                   |o_o |
-                   |:_/ |
-                  //   \ \
-                 (|     | )
-                /'\_   _/`\
-                \___)=(___/
+██╗   ██╗██╗     ██╗ █████╗ ██╗   ██╗
+██║   ██║██║     ██║██╔══██╗╚██╗ ██╔╝
+██║   ██║██║     ██║███████║ ╚████╔╝
+╚██╗ ██╔╝██║     ██║██╔══██║  ╚██╔╝
+ ╚████╔╝ ███████╗██║██║  ██║   ██║
+  ╚═══╝  ╚══════╝╚═╝╚═╝  ╚═╝   ╚═╝
 
 ──────────────────────────────────────────────────────────────
 
 👤 Name          : Vijay Gampala
 
-🎓 Education     : B.Tech Computer Science Engineering
+🎓 Education     : B.Tech Computer Science & Engineering
                    Lovely Professional University
 
 💼 Roles         : Data Scientist
-                   Data Analyst
                    Machine Learning Engineer
                    Python Developer
                    Software Engineer
 
 📍 Location      : Andhra Pradesh, India
 
-💻 Languages     : Python
-                   SQL
-                   Java
-                   C
-                   C++
+💻 Languages     : Python | SQL | Java | C | C++
 
-⚙ Frameworks    : Django
-                   Streamlit
-                   HTML
-                   CSS
+⚙ Frameworks    : Django | Streamlit | HTML | CSS
 
-📊 Data Science  : Pandas
-                   NumPy
-                   Scikit-learn
-                   Matplotlib
-                   Seaborn
-                   Power BI
-                   Excel
+📊 Data Stack    : Pandas | NumPy | Scikit-learn
+                   Matplotlib | Seaborn
+                   Power BI | Excel
 
-🛠 Tools         : Git
-                   GitHub
-                   VS Code
-                   Jupyter Notebook
+🛠 Tools         : Git | GitHub
+                   VS Code | Jupyter Notebook
                    Anaconda
 
 🧠 Core Skills   : Machine Learning
                    Data Analytics
+                   Data Cleaning
                    EDA
                    Feature Engineering
                    OOP
                    DBMS
 
-🚀 Current Focus : Building intelligent
-                   AI-powered solutions
+🚀 Current Focus : Building intelligent,
+                   scalable data-driven applications.
 
-🌐 Portfolio     : https://vijay-gampala.vercel.app/
+🌐 Portfolio     : https://vijay-gampala.vercel.app
 
-💼 LinkedIn      : https://linkedin.com/in/vijay-gampala
+💼 LinkedIn      : linkedin.com/in/vijay-gampala
 
 📧 Email         : vijaygampala0@gmail.com
 
 ──────────────────────────────────────────────────────────────
 
 vijay@github:~$
-
-
-<div align="center">
-
-# Hi 👋, I'm Vijay Gampala
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Science+Enthusiast;Machine+Learning+Developer;Python+Developer;Open+Source+Learner;Future+Software+Engineer" alt="Typing SVG" />
-
-### Building Data-Driven Solutions | Python Developer | Machine Learning Enthusiast
-
-<img src="https://komarev.com/ghpvc/?username=Vijay0567&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+```
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Computer Science Undergraduate at **Lovely Professional University**
+I'm a **Computer Science undergraduate** passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
-📊 Passionate about **Data Science, Machine Learning, Software Development, and Problem Solving**
-
-🌱 Currently learning
-
-- Advanced Python
-- SQL
-- Machine Learning
-- Data Structures & Algorithms
-- Django
-
-💡 Interested in building scalable applications powered by data.
-
-🎯 Goal: To become a Software Engineer/Data Scientist and contribute to impactful real-world projects.
+I enjoy transforming raw data into meaningful insights, building intelligent applications, and solving real-world problems using Python and modern technologies. I'm continuously improving through hands-on projects, coding challenges, and exploring new tools in AI and software engineering.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/vijay-gampala/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -124,41 +88,53 @@ vijay@github:~$
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://vijay-gampala.vercel.app/">
+<a href="https://vijay-gampala.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vijay0567" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql"/>
-
-</p>
-
-### Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=django,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css"/>
 
 </p>
 
-### Data Science
+---
 
-<p>
+### ⚙️ Frameworks & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,streamlit,git,github,vscode"/>
+
+</p>
+
+---
+
+### 📊 Data Science & Machine Learning
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -168,25 +144,11 @@ vijay@github:~$
 
 ---
 
-## 📈 Currently Learning
+### 🌱 Currently Learning
 
-- Machine Learning
-- Data Analytics
-- Advanced SQL
-- Django Development
-- Data Structures & Algorithms
-- System Design Basics
-
----
-
-## 📫 Reach Me
-
-📧 vijaygampala0@gmail.com
-
-🌐 https://vijay-gampala.vercel.app/
-
-💼 https://www.linkedin.com/in/vijay-gampala/
-
----
-
-⭐ If you like my work, consider following my GitHub profile!
+- 🤖 Advanced Machine Learning
+- 📊 Data Analytics
+- 🐍 Advanced Python
+- 🌐 Django Development
+- 🧩 Data Structures & Algorithms
+- ☁️ Cloud Computing Fundamentals
