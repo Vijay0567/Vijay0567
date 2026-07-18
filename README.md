@@ -148,3 +148,120 @@ I enjoy designing scalable applications, analyzing data, creating dashboards, an
 </div>
 
 ---
+
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijay0567&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay0567&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vijay0567&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay0567&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vijay0567&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📋 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijay0567&theme=github_dark"/>
+
+</div>
+
+---
+
+# 💻 Coding Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vijay0567&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijay0567&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijay0567&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vijay0567&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<table align="center">
+<tr>
+<td>
+
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- 🐍 Advanced Python
+- 🌐 Django Development
+
+</td>
+<td>
+
+- 💡 Open Source
+- 📈 Data Visualization
+- 🧩 DSA
+- ☁️ Cloud Fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ 2026 Goals
+
+```text
+🎯 Become a Software Engineer
+
+🎯 Master Data Structures & Algorithms
+
+🎯 Build Production-Level ML Projects
+
+🎯 Contribute to Open Source
+
+🎯 Strengthen Backend Development
+
+🎯 Keep Learning Every Day
+```
