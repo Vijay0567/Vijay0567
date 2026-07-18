@@ -280,3 +280,175 @@ Power BI         ███████████░░ 80%
 
 DSA              ███████░░░░░░ 60%
 ```
+
+
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Vijay0567/Real-Time-GPS-Based-Emergency-Alert-Location-Sharing-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijay0567&repo=Real-Time-GPS-Based-Emergency-Alert-Location-Sharing-System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Vijay0567/Predictive-Analytics-Project-Dashboard-Machine-Learning-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijay0567&repo=Predictive-Analytics-Project-Dashboard-Machine-Learning-&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Vijay0567/TG-Electricity-Consumption-Billing-Analytics-Dashboard-Power-BI-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijay0567&repo=TG-Electricity-Consumption-Billing-Analytics-Dashboard-Power-BI-&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Vijay0567/data-to-insights-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijay0567&repo=data-to-insights-project&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Vijay0567/Health-Fitness-React-App-Modern-Fitness-Tracking-Web-Application">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijay0567&repo=Health-Fitness-React-App-Modern-Fitness-Tracking-Web-Application&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 📂 Project Highlights
+
+### 🚨 Real-Time GPS-Based Emergency Alert & Location Sharing System
+
+- 🚑 Real-time SOS alert system
+- 📍 Live GPS tracking using Geolocation API
+- 👨‍👩‍👧 Instant location sharing
+- 🔒 Secure authentication with Django
+- 💻 Tech: Python • Django • HTML • CSS • Geolocation API
+
+---
+
+### 📊 Intelligent Predictive Analytics Platform
+
+- 📈 Data Cleaning & Feature Engineering
+- 🤖 Machine Learning Models
+- 📉 Interactive Dashboards
+- 📊 EDA & Data Visualization
+- 💻 Tech: Python • Pandas • NumPy • Scikit-learn • Power BI
+
+---
+
+### ⚡ Telangana Electricity Analytics Dashboard
+
+- 📊 Power BI Dashboard
+- 📈 Electricity Consumption Analysis
+- 💰 Billing Insights
+- 📉 Interactive Reports
+
+---
+
+### 🏋️ Health & Fitness Tracking App
+
+- 💪 Responsive React Application
+- 📅 Workout Tracking
+- 🥗 Fitness Dashboard
+- 🎨 Modern UI Design
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python_Full_Stack_&_Cloud_Computing-Coding_Spoon-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Oracle_Data_Platform_2025-Oracle-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics_Job_Simulation-Deloitte-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Build_Generative_AI_Apps-Infosys-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-green?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+🏆 ⭐⭐⭐⭐⭐ in **Python** on HackerRank
+
+🏆 ⭐⭐⭐⭐⭐ in **SQL** on HackerRank
+
+🥇 Top 10 in College Hackathon
+
+📊 Built multiple end-to-end Data Science projects
+
+🚀 Passionate about Open Source & Continuous Learning
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/vijaygampala/">
+<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/vijaygampala0">
+<img src="https://img.shields.io/badge/HackerRank-Visit_Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://github.com/Vijay0567">
+<img src="https://img.shields.io/badge/GitHub-Visit_Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+✓ Advanced Python
+
+✓ Machine Learning
+
+✓ Data Analytics
+
+✓ Django
+
+✓ Artificial Intelligence
+
+✓ Cloud Computing
+
+✓ Data Structures & Algorithms
+
+✓ Open Source
+```
+
+---
+
+# 💡 Fun Facts
+
+```text
+⚡ I love solving real-world problems using Data.
+
+📊 I enjoy building dashboards that tell stories.
+
+🤖 Machine Learning fascinates me.
+
+💻 I believe learning never stops.
+
+🚀 Every project teaches something new.
+```
