@@ -4,6 +4,10 @@
 
 # 👋 Hi, I'm Vijay Gampala
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vijay0567&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
@@ -82,9 +86,35 @@ vijay@github:~$
 
 # 📊 GitHub Analytics
 
-> 🚧 Coming in the next phase
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijay0567&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay0567&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay0567&theme=github-dark&hide_border=true"/>
+
+</p>
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vijay0567&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay0567&theme=github-dark&hide_border=true"/>
+
+</p>
 
 # 🌟 Featured Projects
 
