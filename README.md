@@ -67,9 +67,9 @@ vijay@github:~$ neofetch
 
 <table width="100%">
 <tr>
-<td width="180" valign="top">
+<td width="30%" valign="top">
 
-<img src="assets/ascii_photo.png" width="160"/>
+<img src="assets/ascii_photo.png" width="100%"/>
 
 </td>
 <td valign="top">
