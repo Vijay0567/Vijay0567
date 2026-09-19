@@ -29,7 +29,7 @@
 <tr>
 <td width="30%" valign="top">
 
-<img src="assets/profile_photo.png" width="100%"/>
+<img src="assets/profile_photo.png" width="200"/>
 
 ### Vijay Gampala
 **Data Scientist • ML Engineer**
